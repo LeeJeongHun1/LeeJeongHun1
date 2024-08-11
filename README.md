@@ -43,7 +43,7 @@
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
 
 ## 🔑 PS
-![Leetcode Stats](https://leetcard.jacoblin.cool/jeonghun)
+![Leetcode Stats](https://leetcard.jacoblin.cool/jeonghun1/)
 
 ## 🤝 Collaboration
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
